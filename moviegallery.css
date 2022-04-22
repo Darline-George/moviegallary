@@ -1,0 +1,56 @@
+.c{
+    height: 700px;
+    width: 284px;
+    background-color: rgb(237, 243, 239);
+    float:left;
+    border-radius: 25px;
+    padding: -2px;
+    /* margin-left: 20px; */
+
+}
+#p{
+    height: .8cm;
+    width: 5cm;
+    border: 2px solid black;
+    border-left:-334px;
+    border-top:-709pxpx;
+}
+/* .p1{
+    
+     border-left: 40px;
+     /* padding-left: 40px; */
+} */
+#rat{
+    padding:10px;
+}
+img{
+    width: 100%;
+    height: 35%;
+    border-radius: 25px;
+    /* height: 50%; */
+}
+
+h3{
+    padding-left: 80px;
+}
+.c-1{
+    padding-left: 20 px;
+
+    /* border-left: 10px; */
+}
+
+.c-2{
+    margin-left: 15px;
+}
+.c-3{
+    margin-left: 15px;
+}
+.c-4{
+    margin-left: 15px;
+}
+.c-5{
+    margin-left: 15px;
+}
+.c:hover{
+    box-shadow: 0 10px 20px 0 rgba(10, 4, 9, 0.2), 0 6px 20px 0 rgba(8, 1, 7, 0.19);
+}

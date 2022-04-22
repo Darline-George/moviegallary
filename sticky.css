@@ -1,0 +1,11 @@
+div{
+    height: 200px;
+    width: 300px;
+    background-color: turquoise;
+    position: sticky;
+    top: 0px;
+    left: 35%;
+}
+div:hover{
+    background-color: rgb(238, 13, 178);
+}

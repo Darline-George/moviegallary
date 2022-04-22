@@ -1,0 +1,17 @@
+.col{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    position: absolute;
+    left: 50%;
+
+}
+.row{
+    height: 400px;
+    width: 100px;
+    background-color: black;
+    position: relative;
+    left: 50%;
+
+    
+}

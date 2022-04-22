@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap&family=IBM+Plex+Sans+Arabic:wght@100&family=Merriweather:wght@300&family=Red+Hat+Mono:wght@300&display=swap');
+div{
+    width: 300px;
+    border: 2px solid black;
+    height: 400px;
+    font-family:  'Asap', sans-serif;
+    font-size:small;
+    float: left;
+    background-color: rgb(192, 233, 79);
+    
+    
+    
+}
+
+img{
+    width: 50%;
+    align-content: center;
+    
+}

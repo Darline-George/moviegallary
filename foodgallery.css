@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Asap&family=IBM+Plex+Sans+Arabic:wght@100&family=Lavishly+Yours&family=Merriweather:wght@300&family=Red+Hat+Mono:wght@300&family=Secular+One&display=swap');
+body{
+    background-image: url(./foodgallary/Junk-Food-High-Definition.jpg);
+
+}
+h1{ color: rgb(141, 74, 35);
+    font-family: 'Asap', sans-serif;
+    margin-left: 45%;
+}
+
+.row{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.col{
+    width: 250px;
+    height: 400px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    background-image:url(./foodgallary/vazha.jpg);
+    float: left;
+    border: 2px  black;
+   
+}
+.col:hover{
+    box-shadow: 0 10px 20px 0 rgba(34, 46, 2, 0.842), 0 6px
+}
+img{
+    width: 200px;
+    height: 35%;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+h2{
+    font-family: 'Asap', sans-serif;
+    margin-left: 30%;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 2px;
+}
+button{
+    margin-left: 30%;
+    /* margin-top: 10px; */
+    margin-bottom: 20px;
+    background-color:rgb(87, 59, 7) ;
+    color: white;
+    
+}
+button:hover{
+    background-color:white ;
+    color:black ;
+}

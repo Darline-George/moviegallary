@@ -1,0 +1,39 @@
+.row{
+    width: 100%;
+    height: 300px;
+    background-color: gray;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-evenly;
+    /* justify-content: space-around; */
+    /* justify-content: end; */
+    /* justify-content: start; */
+    align-items: center;
+    /* display flex moves every child inside parent */
+    /* justify content only adjusts horizontally */
+    /* gotta use display flex, align items and justify content for centering and evenig out content */
+    /* align items adjusts only vertically */
+    /* * justify-content: space-between; adds even space between boxes (not left and right of the first and last boxes) */
+    /* /* justify-content: space-evenly; even space all around boxes */
+    /* justify-content: space-around even space around boxes like padding 20px+250px+20px+20px+250px+20px+20px+250px etc */
+    /* if you dont ant to display parent, then dont give parent background color */
+    }
+    .col{
+        width: 22%;
+        height: 200px;
+        border: 2px solid black;
+    }
+    .col-1{
+        background-color: aquamarine;
+    }
+    .col-2{
+        background-color: blue;
+    }
+    .col-3{
+        background-color: brown;
+    }
+    .col-4{
+        background-color: red;
+    }
+    /*  always give width in % because pixels are non adaptable in diffrent devices */
+    /* % adjusts according to screen size where pixel doesnt.  */

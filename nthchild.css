@@ -1,0 +1,28 @@
+/* h1:nth-child(1){
+    color: blue;
+}
+h1:nth-child(3){
+    color: violet;
+}
+h1:nth-child(2){
+    color:salmon
+
+}
+h1:nth-child(2):hover{
+    color:darkcyan;
+
+} */
+
+h1:nth-child(odd){
+    color: firebrick;
+}
+h1:nth-child(even){
+    color: gold;
+}
+span{
+    color: blue;
+    
+}
+#s2{
+    color: rgb(192, 221, 26);
+}

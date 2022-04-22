@@ -1,0 +1,9 @@
+/* descent selector */
+div p{
+    color: blue;
+}
+/* pseudo selector */
+div p:hover{
+    color: brown;
+}
+

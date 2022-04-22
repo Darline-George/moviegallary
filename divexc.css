@@ -1,0 +1,22 @@
+.col{
+    width: 150px;
+    height: 200px;
+    border:2px black;
+    float: left;
+}
+
+.col-1{
+    background-color: yellow;
+}
+.col-2{
+    background-color: blue;
+    margin-left: 10px;
+}
+.col-3{
+    background-color: pink;
+    margin-left: 10px;
+}
+.col:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: palegreen;
+}

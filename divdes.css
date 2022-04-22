@@ -1,0 +1,17 @@
+#d1{
+    background-color: aqua;
+    height: 200px;
+    width: 400px;
+    color: brown;
+    border: solid 2px greenyellow;
+    margin-left: 433px;
+    margin-top: 100 px;
+}
+#d2{
+    background-color: beige;
+    height: 200px;
+    width: 400px;
+    border:solid 3px brown;
+    margin-top: 100px;
+    margin-left: 400px;
+}
